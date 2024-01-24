@@ -6,4 +6,4 @@ function esIgualYNegativo(a, b) {
   return a < 0 && b < 0 && a === b;
 }
 
-module.exports = esIgualYNegativo(1,1);
+module.exports = esIgualYNegativo;
